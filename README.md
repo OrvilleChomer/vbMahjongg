@@ -30,3 +30,6 @@ I am currently working on and off on a *web version* which I plan to have runnin
      
 ---
 Original VB Mahjongg info page on my web site:
+
+http://chomer.com/freeware/my-free-version-of-mahjonng-for-you-to-download/
+
