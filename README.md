@@ -1,4 +1,4 @@
 # vbMahjongg
-This is the source code for old Mahjongg Solitaire game that I wrote in Visual Basic.
+This is the source code for an old Mahjongg Solitaire game that I wrote in Visual Basic which I provided as *freeware* which ran on Windows machines.
 
 The *clsMahjongg.cls* VB class file contains the main game logic.
