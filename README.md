@@ -5,6 +5,7 @@ I think it was even included on one of those floppy disks back in the day that c
 I got a lot of nice comments from people over the years about the game.
 
 **Game Screen Shot Below:**
+
 ![Screen Shot](http://chomer.com/wp-content/mahjongg_screen_full1.png)
 
 
