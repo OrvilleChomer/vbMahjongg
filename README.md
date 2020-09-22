@@ -15,7 +15,7 @@ I have a sneaking suspicion that the original executable will not run on a moder
 
 To give you an idea how old this code is, I believe it was written in Visual Basic 5 Professional Edition. It compiled in the Visual Basic IDE in an executable file.
 
-Notice in the screen shot above how I never went to the trouble to create custom icons for the buttons, or a custom icon for the app itself. Sigh!
+Notice also in the screen shot above how I never went to the trouble to create custom icons for the buttons, or a custom icon for the app itself. Sigh!
 
 I am currently working on and off on a *web version* which I plan to have running on CodePen and Glitch.com!
 
