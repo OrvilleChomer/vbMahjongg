@@ -1,6 +1,6 @@
 # vbMahjongg
 This is the source code for an old Mahjongg Solitaire game that I wrote in Visual Basic which I provided as *freeware* which ran on Windows machines. 
-I think it was even included in one of those floppy disks back in the day that contained a collection of freeware! That's pretty cool!
+I think it was even included on one of those floppy disks back in the day that contained a collection of freeware! That's pretty cool!
 I got a lot of nice comments from people over the years about the game.
 
 It was thorougly debugged, and I played many many delightful games on it myself! It had some limitations, for example the window size was fixed, and was for the screen resolution I was running in at the time I wrote it. This resolution was much lower than screen resolutions are today!  But it was still playable!
