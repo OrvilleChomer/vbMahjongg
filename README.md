@@ -25,5 +25,6 @@ I am currently working on and off on a *web version* which I plan to have runnin
 - *frmMain.frm* and *frmMain.frx* are the files that define the *main window* of the application. The `frm` file is a text file defining different controls on the form and their property values.  The `frx` file contains the binary data for the form. Stuff like bitmap image data. This includes a bitmap for all the different possible tile images there are, as well as a background images (which were photos I actually took at the Japanese Garden located in the Chicago Botanic Gardens)!
 - The game had sound effects which could be heard by the code playing `wav` files.
   - There was no native way in VB to play wav files (or any other format for audio files), so I used a Window API call to do it. This code was in a wrapper function called: `PlayWav()` which is in the *clsMahjongg.cls* file. You pass it the name of the `wav` file and it takes care of the rest!
-  - **Files:**
-     - *click.wav* - click noise when clicking on tiles. I recorded this while rapping two pool cue balls into each other!
+  - **Wav Files:**
+     - *click.wav* - click noise played when user clicks on tiles with their mouse. I recorded this while rapping two pool cue balls into each other!
+     
