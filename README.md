@@ -1,4 +1,7 @@
 # vbMahjongg
+
+![Screen Shot](http://chomer.com/wp-content/mahjongg_screen_full1.png)
+
 This is the source code for an old Mahjongg Solitaire game that I wrote in Visual Basic which I provided as *freeware* which ran on Windows machines. 
 I think it was even included on one of those floppy disks back in the day that contained a collection of freeware written by various authors! That's pretty cool!
 I got a lot of nice comments from people over the years about the game.
