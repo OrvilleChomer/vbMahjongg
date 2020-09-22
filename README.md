@@ -17,7 +17,7 @@ To give you an idea how old this code is, I believe it was written in Visual Bas
 
 Notice also in the screen shot above how I never went to the trouble to create custom icons for the buttons, or a custom icon for the app itself. Sigh!
 
-I am currently working on and off on a *web version* which I plan to have running on CodePen and Glitch.com!
+I am currently working on and off on a *web version* which I plan to have running on CodePen and Glitch.com! I *may* do an SVG version of the tile images, or I might stick to using just bitmap images.
 
 - *VBMahjongg.vbp* is the project file.
 - The *clsMahjongg.cls* VB class file contains the main game logic.
