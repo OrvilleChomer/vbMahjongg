@@ -9,7 +9,7 @@ I have a sneaking suspicion that the original executable will not run on a moder
 
 To give you an idea how old this code is, I believe it was written in Visual Basic 5 Professional Edition. It compiled in the Visual Basic IDE in an executable file.
 
-I am currently working on and off on a web version which I plan to have running on CodePen and Glitch.com!
+I am currently working on and off on a *web version* which I plan to have running on CodePen and Glitch.com!
 
 - *VBMahjongg.vbp* is the project file.
 - The *clsMahjongg.cls* VB class file contains the main game logic.
