@@ -4,8 +4,9 @@ This is the source code for an old Mahjongg Solitaire game that I wrote in Visua
 I think it was even included on one of those floppy disks back in the day that contained a collection of freeware written by various authors! That's pretty cool!
 I got a lot of nice comments from people over the years about the game.
 
+**Game Screen Shot Below:**
 ![Screen Shot](http://chomer.com/wp-content/mahjongg_screen_full1.png)
-**Game Screen Shot**
+
 
 It was thorougly debugged, and I played many many delightful games on it myself! It had some limitations, for example the window size was fixed, and was for the screen resolution I was running in at the time I wrote it. This resolution was much lower than screen resolutions are today!  But it was still playable!
 
