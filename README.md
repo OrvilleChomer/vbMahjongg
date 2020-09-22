@@ -28,3 +28,5 @@ I am currently working on and off on a *web version* which I plan to have runnin
   - **Wav Files:**
      - *click.wav* - click noise played when user clicks on tiles with their mouse. I recorded this while rapping two pool cue balls into each other!
      
+---
+Original VB Mahjongg info page on my web site:
